@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-for download all library we need for this this project.
+download all library we need for this this project.
 
 ### `npm start`
 
